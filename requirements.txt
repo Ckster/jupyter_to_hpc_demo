@@ -1,0 +1,11 @@
+geopandas
+matplotlib
+numpy
+pandas
+torch
+torchvision
+sklearn
+torchsat
+Fiona
+rasterio
+glob2
